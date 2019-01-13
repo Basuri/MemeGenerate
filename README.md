@@ -30,8 +30,7 @@ Dillinger uses a number of open source projects to work properly:
 * [laravel] - HTML, PHP enhanced for web apps!
 * [Visual Studio Code] - Free. Open source. Runs everywhere
 * [scrutinizer] - PHP Scrutinizer is the most advanced static analysis engine.
-* [bootstrap] - fast node.js network app framework [@tjholowaychuk]
-* [Breakdance](http://breakdance.io) - :D
+* [bootstrap] - :D
 * [jQuery] - duh
 
 
