@@ -6,7 +6,7 @@
 
 ---------------------------------------------------------------------------------------
 
-![alt tag](https://github.com/Basuri/MemeGenerate/blob/master/Capture1.PNG)
+![alt tag](https://github.com/Basuri/MemeGenerate/blob/master/image.png)
 
 Laravel Meme Generator App
 
